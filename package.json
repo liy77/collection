@@ -8,7 +8,7 @@
   },
   "name": "collection",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "js/index.js",
   "author": "lrd <hcsbrian4056@gmail.com>",
   "license": "MIT"
 }
