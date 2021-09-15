@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "husky": "^7.0.2",
+    "prettier": "^2.4.0"
+  },
+  "name": "collection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lrd <hcsbrian4056@gmail.com>",
+  "license": "MIT"
+}
